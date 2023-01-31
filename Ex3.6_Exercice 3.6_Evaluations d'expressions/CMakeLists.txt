@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(Ex3_6_Exercice_3_6_Evaluations_d_expressions_)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Ex3_6_Exercice_3_6_Evaluations_d_expressions_ main.cpp)
